@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ajeet Bharti</h1>
 <h3 align="center">A passionate 3d artist and a web developer from India</h3>
+<img src="giphy.gif" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aojeet&label=Profile%20views&color=0e75b6&style=flat" alt="aojeet" /> </p>
 
