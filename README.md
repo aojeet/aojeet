@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/ajeetbharti07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajeetbharti07" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ajeet-bharti-191b94212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajeet-bharti-191b94212" height="30" width="40" /></a>
-<a href="https://instagram.com/ajeet_3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ajeet_3d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cg fiction" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cg fiction" height="30" width="40" /></a>
+<a href="https://twitter.com/ajeetbharti07" target="blank"><img align="center" src="https://icons8.com/icon/13963/twitter" alt="ajeetbharti07" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ajeet-bharti-191b94212" target="blank"><img align="center" src="https://icons8.com/icon/13930/linkedin" alt="ajeet-bharti-191b94212" height="30" width="40" /></a>
+<a href="https://instagram.com/ajeet_3d" target="blank"><img align="center" src="https://icons8.com/icon/Xy10Jcu1L2Su/instagram" alt="ajeet_3d" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/cg fiction" target="blank"><img align="center" src="https://icons8.com/icon/19318/youtube" alt="cg fiction" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
