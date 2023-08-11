@@ -1,6 +1,6 @@
 <style>
   body{
-    background-color: black;
+    background: black;
   }
 </style>
 <h1 align="center">Hi 👋, I'm Ajeet Bharti</h1>
