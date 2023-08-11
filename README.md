@@ -1,8 +1,3 @@
-<style>
-  body{
-    background: black;
-  }
-</style>
 <h1 align="center">Hi 👋, I'm Ajeet Bharti</h1>
 <h3 align="center">A passionate 3d artist and a web developer from India</h3>
 
