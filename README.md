@@ -5,8 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aojeet&label=Profile%20views&color=0e75b6&style=flat" alt="aojeet" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ajeetbharti07" target="blank"><img src="https://img.shields.io/twitter/follow/ajeetbharti07?logo=twitter&style=for-the-badge" alt="ajeetbharti07" /></a> </p>
-<img src="https://www.reddit.com/r/perfectloops/comments/9c4mzp/quantum_leap/" alt="">
-
+<img src="giphy.gif" alt="">
 - 🔭 I’m currently working on **Upwork**
 
 - 🌱 I’m currently learning **Javascript DOM**
