@@ -1,5 +1,5 @@
 # 💫 About Me:
-3D artist 🌟 | Web developer 💻
+3D artist 🌟 | Android Developer 📱
 
 
 ## 🌐 Socials:
